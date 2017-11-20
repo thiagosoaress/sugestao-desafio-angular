@@ -16,7 +16,7 @@ Aqui vai o layout em PSD:
 
 
 ### Algumas dicas e observações
-> Obs 1.: Fique a vontade para utilizar qualquer 3rd party, deixei incluiso ao projeto a 3rd party do [PrimeNG](https://www.primefaces.org/primeng/#/).
+> Obs 1.: Fique a vontade para utilizar qualquer 3rd party, deixei incluso ao projeto a 3rd party do [PrimeNG](https://www.primefaces.org/primeng/#/).
 
 > Obs 2.: Use Reactive Forms
  
