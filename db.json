@@ -1,0 +1,52 @@
+{
+    "usuarios": [
+        {
+            "nome": "Núbia",
+            "sobrenome": "Franco",
+            "participacao": 18,
+            "dataNascimento": "1979-09-11T12:54:33.441Z",
+            "dataNascimentoFormatada": "11/9/1979",
+            "telefone": "+55 (04) 9253-6680",
+            "username": "nubia_franco10",
+            "senha": "rxJVhX6z9XEkwhs",
+            "email": "Nbia17@gmail.com",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mashaaaaal/128.jpg"
+        },
+        {
+            "nome": "Paula",
+            "sobrenome": "Santos",
+            "participacao": 34,
+            "dataNascimento": "1985-09-30T16:58:57.733Z",
+            "dataNascimentoFormatada": "30/9/1985",
+            "telefone": "(02) 8803-5422",
+            "username": "Paula17",
+            "senha": "K9FheBhUiIaZBYG",
+            "email": "Paula.Santos91@hotmail.com",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/samihah/128.jpg"
+        },
+        {
+            "nome": "Nataniel",
+            "sobrenome": "Souza",
+            "participacao": 22,
+            "dataNascimento": "1974-04-17T11:41:04.976Z",
+            "dataNascimentoFormatada": "17/4/1974",
+            "telefone": "+55 (39) 1933-6171",
+            "username": "nsouza50",
+            "senha": "CRUgi4C8sBjz_R6",
+            "email": "nataniel_souza@gmail.com",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/traneblow/128.jpg"
+        },
+        {
+            "nome": "Sílvia",
+            "sobrenome": "Franco",
+            "participacao": 26,
+            "dataNascimento": "1985-06-06T10:17:42.060Z",
+            "dataNascimentoFormatada": "6/6/1985",
+            "telefone": "(55) 22506-5453",
+            "username": "slviafranco",
+            "senha": "A0_ai3jZWXpbraL",
+            "email": "slviafranco@gmail.com",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/leeiio/128.jpg"
+        }
+    ]
+}
